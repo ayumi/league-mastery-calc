@@ -1,29 +1,26 @@
-League of Legends:  Mastery Calculator
+League of Masteries
 ======================================
-
-This project was designed to experiment with the new mastery changes that came
-with season 2 and has now been updated for season 3. It features a very fast
-interface with fully functional talent trees that work as you would expect in
-game. Each point you change will automatically alter the URL to provide a unique
-link so that you may share a build with other players. The calculator does not
-rely on any server technology, and thus may be saved and used offline if
-desired.
 
 Demo
 ----
 
-<http://dpatti.github.com/league-mastery-calc/>
+<http://leagueofmasteries.com>
 
-Contributors
-------------
 
-* [@wonderfulheaven](https://twitter.com/wonderfulheaven) - Season 3 data update
+About
+-----
+
+This is a web browser replica of the League of Legends mastery calculator from
+the PVP.net client. Effort has been made to replicate as accurately as possible
+the original look, feel and functionality.
+
 
 License
 -------
 
 The MIT License
 
+Copyright (c) 2013 by Ayumi Yu
 Copyright (c) 2012 by Doug Patti
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
